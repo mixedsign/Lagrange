@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ""
-author: ""
+title: "Works"
+author: "Vanya"
 categories: journal
 tags: [documentation,sample]
 ---
