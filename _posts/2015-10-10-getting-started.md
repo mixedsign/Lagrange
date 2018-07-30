@@ -5,4 +5,4 @@ author: "Vanya"
 categories: journal
 tags: [documentation,sample]
 ---
-Please wait to reload www.society6.com/vanyfair
+Please wait redirecting to www.society6.com/vanyfair
