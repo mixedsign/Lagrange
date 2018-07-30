@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About"
+title: "Contact"
 author: "Vanya"
 categories: journal
 tags: [documentation,sample]
